@@ -1,1 +1,0 @@
-I am able to create texts and add images and paragraphs and am striving to able to create a proper website.
